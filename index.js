@@ -176,7 +176,7 @@ client.initialize()
     });
 
 app.listen(PORT, () => {
-    logger.info(`🚀 Serveur API lancé sur http://localhost:${PORT}`);
+    logger.info(`🚀 Serveur API lancé sur http://0.0.0.0:${PORT}`);
 });
 
 // Gestion des erreurs non catchées
