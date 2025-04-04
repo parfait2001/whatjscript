@@ -11,7 +11,8 @@
       "express": "^4.17.1",
       "qrcode": "^1.5.0",
       "socket.io": "^4.1.2",
-      "whatsapp-web.js": "^1.15.4"
+      "whatsapp-web.js": "^1.15.4",
+      "winston": "^3.3.3"
     },
     "devDependencies": {
       "nodemon": "^2.0.7"
